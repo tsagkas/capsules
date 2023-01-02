@@ -1,5 +1,6 @@
-# Inference for Generative Capsule Models
-This code is the implementation of the algorithm described in the following paper: [Inference for Generative Capsule Models](https://arxiv.org/abs/2103.06676).
+# Inference and Learning for Generative Capsule Models
+This code is the implementation of the algorithm described in the following paper: [Inference and Learning for Generative Capsule Models
+](https://arxiv.org/abs/2209.03115).
 
 This repo contains the code for the "face experiments". The original constellation experiments can be found at: [anazabal/GenerativeCapsules](https://github.com/anazabal/GenerativeCapsules).
 
